@@ -136,7 +136,17 @@ C:\Users\ronmarti\AppData\Local\Temp\VMBuilds\TemperatureLogger\arduino_due_x_db
  C:\Users\ronmarti\AppData\Local\arduino15\packages\arduino\hardware\sam\1.6.7\cores\arduino/USB/USBAPI.h \
  C:\Users\ronmarti\AppData\Local\arduino15\packages\arduino\hardware\sam\1.6.7\cores\arduino/RingBuffer.h \
  C:\Users\ronmarti\AppData\Local\arduino15\packages\arduino\hardware\sam\1.6.7\cores\arduino/Stream.h \
+ C:\Users\ronmarti\AppData\Local\arduino15\packages\arduino\hardware\sam\1.6.7\libraries\SPI\src/SPI.h \
+ C:\Users\ronmarti\Documents\Arduino\libraries\SD\src/SD.h \
+ C:\Users\ronmarti\Documents\Arduino\libraries\SD\src/utility/SdFat.h \
+ C:\Users\ronmarti\Documents\Arduino\libraries\SD\src/utility/Sd2Card.h \
+ C:\Users\ronmarti\Documents\Arduino\libraries\SD\src/utility/Sd2PinMap.h \
+ C:\Users\ronmarti\Documents\Arduino\libraries\SD\src/utility/SdInfo.h \
+ C:\Users\ronmarti\Documents\Arduino\libraries\SD\src/utility/FatStructs.h \
+ C:\Users\ronmarti\AppData\Local\arduino15\packages\arduino\hardware\sam\1.6.7\cores\arduino/Print.h \
+ C:\Users\ronmarti\Documents\Arduino\libraries\SD\src/utility/SdFatUtil.h \
  C:\Users\ronmarti\AppData\Local\arduino15\packages\arduino\hardware\sam\1.6.7\libraries\Wire\src/Wire.h \
  C:\Users\ronmarti\AppData\Local\arduino15\packages\arduino\hardware\sam\1.6.7\system/libsam/include/twi.h \
  C:\Users\ronmarti\Documents\Arduino\libraries\Adafruit_BMP085_Library/Adafruit_BMP085.h \
+ C:\Program\ Files\ (x86)\Arduino\libraries\LiquidCrystal\src/LiquidCrystal.h \
  C:\Program\ Files\ (x86)\Microsoft\ Visual\ Studio\ 12.0\Common7\IDE\Extensions\pgej5ayt.w1t\Micro\ Platforms\default\debuggers\VM_DBG/VM_DBG.h
